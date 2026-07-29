@@ -51,4 +51,4 @@ This project demonstrates how to create a web server using the ESP32. The ESP32 
 * Combining networking with embedded systems
 
 
-## 📷 Demo
+
